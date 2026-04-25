@@ -20,3 +20,10 @@
 - `index.md`: 홈
 - `blog.md`: 글 목록 페이지
 - `_posts/`: 블로그 글
+
+## 이미지 관리
+
+- 포스트 이미지는 `assets/images/posts/` 아래에 저장합니다.
+- 여러 글에서 공통으로 쓰는 이미지는 `assets/images/common/`에 둡니다.
+- 예시 경로: `assets/images/posts/2026-04-24-jekyll-guide/cover.png`
+- Markdown 예시: `![설명]({{ "/assets/images/posts/2026-04-24-jekyll-guide/cover.png" | relative_url }})`
