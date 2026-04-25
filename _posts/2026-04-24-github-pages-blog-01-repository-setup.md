@@ -1,6 +1,6 @@
 ---
 title: "GitHub Pages 블로그 만들기 1: 저장소 생성과 기본 설계"
-date: 2026-04-26 09:00:00 +0900
+date: 2026-04-24 09:00:00 +0900
 categories:
   - blog
   - github-pages
@@ -129,4 +129,4 @@ GitHub Pages는 Jekyll과 궁합이 좋습니다.
 
 ---
 
-다음 글: [GitHub Pages 블로그 만들기 2: Jekyll과 just-the-docs 테마 연결하기]({{ "/2026/04/27/github-pages-blog-02-jekyll-theme-setup/" | relative_url }})
+다음 글: [GitHub Pages 블로그 만들기 2: Jekyll과 just-the-docs 테마 연결하기]({{ "/2026/04/24/github-pages-blog-02-jekyll-theme-setup/" | relative_url }})

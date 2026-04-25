@@ -1,6 +1,6 @@
 ---
 title: "GitHub Pages 블로그 만들기 2: Jekyll과 just-the-docs 테마 연결하기"
-date: 2026-04-27 09:00:00 +0900
+date: 2026-04-24 09:00:00 +0900
 categories:
   - blog
   - github-pages
@@ -113,7 +113,7 @@ Jekyll에서는 각 Markdown 파일 상단의 front matter를 기준으로 메�
 ```yml
 ---
 title: "글 제목"
-date: 2026-04-27 09:00:00 +0900
+date: 2026-04-24 09:00:00 +0900
 categories:
   - blog
 tags:
@@ -156,6 +156,6 @@ Jekyll과 테마를 연결하는 단계는 단순히 예쁜 화면을 붙이는 
 
 ---
 
-이전 글: [GitHub Pages 블로그 만들기 1: 저장소 생성과 기본 설계]({{ "/2026/04/26/github-pages-blog-01-repository-setup/" | relative_url }})
+이전 글: [GitHub Pages 블로그 만들기 1: 저장소 생성과 기본 설계]({{ "/2026/04/24/github-pages-blog-01-repository-setup/" | relative_url }})
 
-다음 글: [GitHub Pages 블로그 만들기 3: GitHub Actions로 자동 배포하기]({{ "/2026/04/28/github-pages-blog-03-actions-deploy/" | relative_url }})
+다음 글: [GitHub Pages 블로그 만들기 3: GitHub Actions로 자동 배포하기]({{ "/2026/04/24/github-pages-blog-03-actions-deploy/" | relative_url }})

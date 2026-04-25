@@ -1,6 +1,6 @@
 ---
 title: "GitHub Pages 블로그 만들기 4: 배포 오류 해결과 운영 시작"
-date: 2026-04-29 09:00:00 +0900
+date: 2026-04-24 09:00:00 +0900
 categories:
   - blog
   - github-pages
@@ -121,6 +121,6 @@ bundle lock --add-platform x86_64-linux
 
 ---
 
-이전 글: [GitHub Pages 블로그 만들기 3: GitHub Actions로 자동 배포하기]({{ "/2026/04/28/github-pages-blog-03-actions-deploy/" | relative_url }})
+이전 글: [GitHub Pages 블로그 만들기 3: GitHub Actions로 자동 배포하기]({{ "/2026/04/24/github-pages-blog-03-actions-deploy/" | relative_url }})
 
 시리즈 끝.

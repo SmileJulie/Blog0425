@@ -1,6 +1,6 @@
 ---
 title: "GitHub Pages 블로그 만들기 3: GitHub Actions로 자동 배포하기"
-date: 2026-04-28 09:00:00 +0900
+date: 2026-04-24 09:00:00 +0900
 categories:
   - blog
   - github-pages
@@ -140,6 +140,6 @@ bundle exec jekyll serve
 
 ---
 
-이전 글: [GitHub Pages 블로그 만들기 2: Jekyll과 just-the-docs 테마 연결하기]({{ "/2026/04/27/github-pages-blog-02-jekyll-theme-setup/" | relative_url }})
+이전 글: [GitHub Pages 블로그 만들기 2: Jekyll과 just-the-docs 테마 연결하기]({{ "/2026/04/24/github-pages-blog-02-jekyll-theme-setup/" | relative_url }})
 
-다음 글: [GitHub Pages 블로그 만들기 4: 배포 오류 해결과 운영 시작]({{ "/2026/04/29/github-pages-blog-04-troubleshooting/" | relative_url }})
+다음 글: [GitHub Pages 블로그 만들기 4: 배포 오류 해결과 운영 시작]({{ "/2026/04/24/github-pages-blog-04-troubleshooting/" | relative_url }})
